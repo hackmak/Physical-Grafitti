@@ -1,3 +1,2 @@
 # Physical-Grafitti
-Simple drawing of an apartment building, loosely based on Physical Graffiti
-
+[Simple drawing of an apartment building](physgraf.png), loosely based on Physical Graffiti.
